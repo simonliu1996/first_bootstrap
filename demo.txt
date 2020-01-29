@@ -1,1 +1,0 @@
-This demo is to learn the basics of boostrap by building a web page.
